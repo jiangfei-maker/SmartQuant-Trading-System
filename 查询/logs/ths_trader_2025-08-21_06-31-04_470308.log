@@ -1,0 +1,5 @@
+2025-08-21 06:32:38.536 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: C:/同花顺软件/同花顺/xiadan.exe
+2025-08-21 06:32:49.613 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Process "C:/同花顺软件/同花顺/xiadan.exe" not found!
+2025-08-21 06:32:49.616 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: C:/同花顺软件/同花顺/xiadan.exe
+2025-08-21 06:32:58.930 | INFO     | ths_trader:disconnect:56 - 已断开同花顺客户端连接
+2025-08-21 06:32:59.904 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Process "C:/同花顺软件/同花顺/xiadan.exe" not found!

@@ -1,0 +1,3 @@
+2025-09-01 19:38:25.032 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:38:25.035 | INFO     | ths_trader:connect:44 - 同花顺客户端连接成功
+2025-09-01 19:38:25.037 | INFO     | ths_trader:get_balance:88 - 成功获取账户资金信息

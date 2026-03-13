@@ -1,0 +1,28 @@
+2025-08-17 01:41:18.047 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-08-17 01:41:18.051 | INFO     | ths_trader:connect:44 - 同花顺客户端连接成功
+2025-08-17 01:41:18.053 | INFO     | ths_trader:connect:32 - 已经连接到同花顺客户端，无需重复连接
+2025-08-17 01:41:18.063 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-08-17 01:41:18.065 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-08-17 01:41:18.070 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-08-17 01:41:18.072 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-08-17 01:41:18.074 | INFO     | ths_trader:disconnect:56 - 已断开同花顺客户端连接
+2025-08-17 01:41:18.078 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-08-17 01:41:18.081 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-08-17 01:41:18.083 | INFO     | ths_trader:get_balance:88 - 成功获取账户资金信息
+2025-08-17 01:41:18.088 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-08-17 01:41:18.092 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-08-17 01:41:23.086 | INFO     | ths_trader:get_balance:88 - 成功获取账户资金信息
+2025-08-17 01:41:23.098 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-08-17 01:41:23.100 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-08-17 01:41:23.103 | INFO     | ths_trader:get_position:101 - 成功获取账户持仓信息
+2025-08-17 01:41:23.109 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-08-17 01:41:23.112 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-08-17 01:41:23.114 | INFO     | ths_trader:sell:154 - 卖出 sh600000 100 股成功
+2025-08-17 01:41:23.120 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-08-17 01:41:23.125 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-08-17 01:41:23.130 | INFO     | ths_trader:buy:181 - 买入 sh600000 100 股成功
+2025-08-17 01:41:23.145 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-08-17 01:41:23.151 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-08-17 01:41:23.161 | INFO     | ths_trader:cancel_entrust:202 - 撤单 123456 成功
+2025-08-17 01:41:23.182 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-08-17 01:41:23.191 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed

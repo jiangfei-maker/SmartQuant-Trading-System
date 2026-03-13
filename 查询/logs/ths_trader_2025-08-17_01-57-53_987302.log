@@ -1,0 +1,8 @@
+2025-08-17 01:57:53.992 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-08-17 01:57:53.996 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-08-17 01:57:54.006 | INFO     | ths_trader:buy:181 - 买入 sh600000 100 股成功
+2025-08-17 01:57:54.016 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-08-17 01:57:54.019 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-08-17 01:57:54.023 | INFO     | ths_trader:cancel_entrust:202 - 撤单 123456 成功
+2025-08-17 01:57:54.030 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-08-17 01:57:54.033 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed

@@ -1,0 +1,23 @@
+2025-09-01 19:41:26.234 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:41:26.237 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-09-01 19:41:26.238 | INFO     | ths_trader:disconnect:56 - 已断开同花顺客户端连接
+2025-09-01 19:41:26.242 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:41:26.243 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-09-01 19:41:26.244 | INFO     | ths_trader:get_balance:88 - 成功获取账户资金信息
+2025-09-01 19:41:26.248 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:41:26.249 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-09-01 19:41:31.245 | ERROR    | ths_trader:get_balance:91 - 获取账户资金信息失败: 'NoneType' object has no attribute 'balance'
+2025-09-01 19:41:31.257 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:41:31.261 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-09-01 19:41:31.264 | INFO     | ths_trader:get_position:101 - 成功获取账户持仓信息
+2025-09-01 19:41:31.275 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:41:31.279 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-09-01 19:41:31.283 | INFO     | ths_trader:sell:154 - 卖出 sh600000 100 股成功
+2025-09-01 19:41:31.298 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:41:31.304 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-09-01 19:41:31.307 | INFO     | ths_trader:buy:181 - 买入 sh600000 100 股成功
+2025-09-01 19:41:31.323 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:41:31.327 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed
+2025-09-01 19:41:31.332 | INFO     | ths_trader:cancel_entrust:202 - 撤单 123456 成功
+2025-09-01 19:41:31.353 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:41:31.359 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: Connection failed

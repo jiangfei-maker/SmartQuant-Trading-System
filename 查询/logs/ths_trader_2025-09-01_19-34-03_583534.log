@@ -1,0 +1,23 @@
+2025-09-01 19:34:03.585 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:34:03.587 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: No module named 'easytrader.universal_clienttrader'; 'easytrader' is not a package
+2025-09-01 19:34:03.595 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:34:03.597 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: No module named 'easytrader.universal_clienttrader'; 'easytrader' is not a package
+2025-09-01 19:34:03.617 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:34:03.622 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: No module named 'easytrader.universal_clienttrader'; 'easytrader' is not a package
+2025-09-01 19:34:03.636 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:34:03.639 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: No module named 'easytrader.universal_clienttrader'; 'easytrader' is not a package
+2025-09-01 19:34:03.642 | INFO     | ths_trader:disconnect:56 - 已断开同花顺客户端连接
+2025-09-01 19:34:03.652 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:34:03.655 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: No module named 'easytrader.universal_clienttrader'; 'easytrader' is not a package
+2025-09-01 19:34:03.667 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:34:03.669 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: No module named 'easytrader.universal_clienttrader'; 'easytrader' is not a package
+2025-09-01 19:34:03.676 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:34:03.677 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: No module named 'easytrader.universal_clienttrader'; 'easytrader' is not a package
+2025-09-01 19:34:03.688 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:34:03.690 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: No module named 'easytrader.universal_clienttrader'; 'easytrader' is not a package
+2025-09-01 19:34:03.696 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:34:03.697 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: No module named 'easytrader.universal_clienttrader'; 'easytrader' is not a package
+2025-09-01 19:34:03.704 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:34:03.705 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: No module named 'easytrader.universal_clienttrader'; 'easytrader' is not a package
+2025-09-01 19:34:03.731 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:34:03.737 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: No module named 'easytrader.universal_clienttrader'; 'easytrader' is not a package

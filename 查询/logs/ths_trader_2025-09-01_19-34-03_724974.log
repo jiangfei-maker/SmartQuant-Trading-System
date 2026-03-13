@@ -1,0 +1,2 @@
+2025-09-01 19:34:03.731 | INFO     | ths_trader:connect:36 - 准备连接同花顺客户端: test_path
+2025-09-01 19:34:03.737 | ERROR    | ths_trader:connect:47 - 连接同花顺客户端失败: No module named 'easytrader.universal_clienttrader'; 'easytrader' is not a package
