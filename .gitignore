@@ -28,6 +28,7 @@ logs/
 
 # Streamlit
 .streamlit/secrets.toml
+**/secrets.toml
 
 # Virtual Environment
 venv/
